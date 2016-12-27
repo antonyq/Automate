@@ -1,0 +1,15 @@
+2
+6
+A
+1 E
+A a B
+A b C
+B a B
+B b D
+C a B
+C b C
+D a B
+D b E
+E a B
+E b C
+F a E

@@ -1,0 +1,30 @@
+D:\Projects\C#\Automate\Automate\bin\Debug\Automate.exe
+D:\Projects\C#\Automate\Automate\bin\Debug\Automate.pdb
+D:\Projects\C#\Automate\Automate\obj\Debug\Automate.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Automate\Automate\obj\Debug\Automate.exe
+D:\Projects\C#\Automate\Automate\obj\Debug\Automate.pdb
+D:\Projects\C#\Automate\Automate\obj\Debug\Automate.Properties.Resources.resources
+D:\Projects\C#\Automate\Automate\obj\Debug\Automate.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\obj\Debug\Automate.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\obj\Debug\Automate.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\bin\Debug\Automate.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\bin\Debug\Automate.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\obj\Debug\Automate.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\obj\Debug\Automate.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Automate\Automate\obj\Debug\Automate.csproj.GenerateResource.Cache
+D:\Projects\Automate\Automate\obj\Debug\Automate.exe
+D:\Projects\Automate\Automate\obj\Debug\Automate.pdb
+D:\Projects\C#\Automaton\Automate\obj\Debug\Automate.exe
+D:\Projects\C#\Automaton\Automate\obj\Debug\Automate.pdb
+D:\Projects\C#\Automaton\Automate\bin\Debug\Automate.exe
+D:\Projects\C#\Automaton\Automate\bin\Debug\Automate.pdb
+D:\Projects\C#\Automaton\Automate\obj\Debug\Automate.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Automaton\Automate\obj\Debug\Automate.Properties.Resources.resources
+D:\Projects\C#\Automaton\Automate\obj\Debug\Automate.csproj.GenerateResource.Cache
+C:\Users\Anton\Downloads\Automate-master\Automate\obj\Debug\Automate.exe
+C:\Users\Anton\Downloads\Automate-master\Automate\obj\Debug\Automate.pdb
+C:\Users\Anton\Downloads\Automate-master\Automate\bin\Debug\Automate.exe
+C:\Users\Anton\Downloads\Automate-master\Automate\bin\Debug\Automate.pdb
+C:\Users\Anton\Downloads\Automate-master\Automate\obj\Debug\Automate.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Downloads\Automate-master\Automate\obj\Debug\Automate.Properties.Resources.resources
+C:\Users\Anton\Downloads\Automate-master\Automate\obj\Debug\Automate.csproj.GenerateResource.Cache
